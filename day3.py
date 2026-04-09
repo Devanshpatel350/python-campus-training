@@ -61,9 +61,9 @@ from builtins import input, int, print, range
 
 # write a program which will take input from user and check the count of digits in the number and print them
 
-n = int(input("Enter a number:  "))
-count = 0 
-while n > 0:
-    n = n//10
-    count += 1
-print("The count of digits in the number is: ", count)
+# n = int(input("Enter a number:  "))
+# count = 0 
+# while n > 0:
+#     n = n//10
+#     count += 1
+# print("The count of digits in the number is: ", count)
